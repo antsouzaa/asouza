@@ -1,4 +1,4 @@
-<img align="right" src="https://antsouzaa.github.io/icones/Logo%20Vinicius%2025-11-2018.png" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/gist/antsouzaa/cd8590b216e8d19d3f53548a25fc54da/raw/9d01d9636f72be1abb7ec1d09f220a0b65fc9a66/wall.svg" width="250"/>
 
 
 ### Olá, bem vindo ao meu perfil. Me chamo Antonio Alves de Souza 👋
