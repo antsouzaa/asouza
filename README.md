@@ -1,24 +1,52 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/antsouzaa/cd8590b216e8d19d3f53548a25fc54da/raw/9d01d9636f72be1abb7ec1d09f220a0b65fc9a66/wall.svg" width="250"/>
+# Antônio Souza
 
+**Analista de Implantação | Infraestrutura de TI & Sistemas**  
+📍 Campinas, SP | 🇧🇷 Brasil
 
-### Olá, Me chamo Antonio Souza 👋
+---
 
-- 🚀 Atualmente estou trabalhando na [Algar TI Consultoria SA] como Analista de Tecnologia.
-- 💻 Experiência de mais de 6 anos no setor de tecnologia da informação, focado em infraestrutura e serviços de TI, fundamentado na ITIL, sempre seguindo as melhores praticas exigidas. 
-- ✨ Suporte ao usuário final, priorização e acompanhamento de backlogs, analise e registros de solicitações de clientes, em nível 1 e nível 2, de forma remota e presencial .
-- ✨Atuando com workstation em domínio Windows 7, 10 e 11, configuração de Exchange e POP, conhecimento e utilização técnica, das ferramentas de acesso remoto RDP, PCAnywere, SCCM.
-- ✨Monitoramento de APIs MDM com PRTG e Grafana, experiência e vivencia com ServiceNow, analise e troubleshooting de incidentes.
-- ✨Aplicação de patchs de Segurança, criação e manutenção de domínio, Suporte a Servidores sistema Operacional, Configuração de Proxy, otimização de recursos de hardware para melhoro performance dos equipamento.
-Noções de banco de Dados SQL, rede (Protocolos TCP/IP, ICMP, SNMP).
+### 🟢 Sobre Mim
 
-📫  Networking 👇
+Profissional de Tecnologia com trajetória consolidada em **Infraestrutura de TI, Suporte Técnico N2/Field Service e Implantação de Sistemas**. 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antonioadsouza)
-<div>
-  <div class="row">
-    "Eu gosto do impossível. Lá a concorrência é menor ."
-  </div>
-  <div class="row">
-    <i>- Walt Disney</i>
-  </div>
-</div>
+Atuo no ponto de convergência entre o técnico e a operação: desde o mapeamento de ambiente, homologação de ativos de rede e parametrização de sistemas, até o acompanhamento do *go-live* e treinamento de usuários finais. Minha atuação foca em garantir transições de tecnologia fluidas, minimizando impactos operacionais e encurtando o tempo de adaptação do cliente às novas soluções.
+
+- 🛠️ **Foco Atual:** Implantação de sistemas, projetos de infraestrutura de TI e automação de rotinas de suporte.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (UNIP).
+- 📜 **Certificações:** Scrum Foundation Professional (SFPC), Cybersecurity Essentials (Cisco), IT Support Specialist.
+
+---
+
+### 🛠️ Competências & Tecnologias
+
+#### **Implantação & Projetos de TI**
+- Mapeamento de Requisitos (As-Is / To-Be) & Diagnóstico de Ambiente
+- Parametrização, Homologação e Testes de Acesso / Funcionais
+- Acompanhamento de Go-Live, Pós-Implantação e Treinamento de Usuários
+- Metodologias Ágeis (Scrum, Kanban) & Gestão de Incidentes em Viradas de Sistema
+
+#### **Infraestrutura, Redes & Suporte**
+- Redes de Computadores (TCP/IP, VLANs, Roteamento, Diagnóstico em Campo)
+- Ambientes Windows Server, Active Directory (Consultivo/Visualização), Linux (Kali/Debian)
+- Automação de Suporte com PowerShell e Scripts de Diagnóstico
+- Virtualização e Simulação de Cenários (GNS3)
+
+---
+
+### 🚀 Projetos & Repositórios
+
+Aqui no GitHub compartilho scripts de automação, documentações técnicas de redes/sistemas, laboratórios de infraestrutura e materiais de estudo prático:
+
+- 🔹 **Scripts de Automação:** Automação de rotinas em PowerShell e utilitários para suporte/diagnóstico de rede.
+- 🔹 **Labs de Infraestrutura & Redes:** Arquiteturas, simulações de topologias e checklists de validação de ambiente técnico.
+- 🔹 **Documentação de Processos:** Guias práticos de apoio a migrações e manuais de orientação ao usuário.
+
+---
+
+### 📬 Onde me Encontrar
+
+- **LinkedIn:** https://www.linkedin.com/in/antonioadsouza 
+- e-mail desouzavesad@gmail.com 
+
+---
+`README.md`.
