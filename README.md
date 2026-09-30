@@ -1,6 +1,6 @@
 # Antônio Souza
 
-**Analista de Implantação | Infraestrutura de TI & Sistemas**  
+**Analista de Sistemas| Implantação | Infraestrutura de TI & Sistemas**  
 📍 Campinas, SP | 🇧🇷 Brasil
 
 ---
